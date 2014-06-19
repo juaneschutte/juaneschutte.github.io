@@ -1,21 +1,21 @@
-title:            Site Title
-description:      Describe your website.
+title:            Solution Driven Analytics
+description:      Applied analytics in business, markets and sport.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
-disqus_shortname:
+disqus_shortname: juaneschuttegithubio
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          your@email.com
+  name:           Juane Schutte
+  avatar:         bio-photo-juane.png
+  bio:            "An Analyst looking to continuously improve Statistics, Data mining and Programming skills."
+  email:          juaneschutte@hotmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter:
+  twitter: juaneschutte
   facebook:
-  github:
+  github: juaneschutte
   stackoverflow:
-  linkedin:
+  linkedin: 
   instagram:
   lastfm:
   tumblr:
@@ -41,8 +41,8 @@ links:
     url: /posts/
   - title: Theme Setup
     url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Calypso Analytics
+    url: http://calypsoanalytics.co.za
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
