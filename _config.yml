@@ -1,4 +1,4 @@
-title:            Solution Driven Analytics
+title:            Analytics for Managers
 description:      Applied analytics in business, markets and sport.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:              http://localhost:4000
@@ -8,7 +8,7 @@ disqus_shortname: juaneschuttegithubio
 owner:
   name:           Juane Schutte
   avatar:         bio-photo-juane.png
-  bio:            "An Analyst looking to continuously improve Statistics, Data mining and Programming skills."
+  bio:            "Helping businesses embrace risk and uncertainty with the advancement in Math and Technology.  Utilises data mining and machine learning to assist managers to make data driven decisions."
   email:          juaneschutte@hotmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: juaneschutte
